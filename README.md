@@ -1,4 +1,4 @@
-# Python
+# Python学习笔记
 This is Python emmmm
 *倾斜*
 |表格|表格|
