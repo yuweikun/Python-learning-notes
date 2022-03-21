@@ -1,3 +1,3 @@
 # Python
-This is Python emmmm\newline
+This is Python emmmm$$\to$$
 YuWeiKun sb
