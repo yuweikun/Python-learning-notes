@@ -5,4 +5,4 @@
 
 [Python简介](./简介.md)
 
-[Python安装](./Python安装.md)
+[Python安装](./python安装.md)
