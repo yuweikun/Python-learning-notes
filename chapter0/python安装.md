@@ -1,11 +1,11 @@
-##Python 环境搭建
+## Python 环境搭建
 
 本章节将向大家介绍如何在本地搭建 Python3 开发环境。
 
 Python3 可应用于多平台包括 Windows、Linux 和 Mac OS X。
 
 ---
-##Python 下载
+## Python 下载
 [Python官网]( https://www.python.org/downloads/windows/)
 
 
