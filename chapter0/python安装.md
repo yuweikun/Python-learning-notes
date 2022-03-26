@@ -9,7 +9,7 @@ Python3 可应用于多平台包括 Windows、Linux 和 Mac OS X。
 [Python官网]( https://www.python.org/downloads/windows/)
 
 
-![下载1](./%E4%B8%8B%E8%BD%BD1.png)
+![下载1](https://github.com/yuweikun/Python-learning-notes/blob/main/chapter0/IDE1.png)
 
 找到最新的Python 3版本，并下载
 
